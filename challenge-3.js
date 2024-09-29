@@ -80,3 +80,4 @@ let tax = payee();
 //returns the net salary of the user
 const netSalary = grossSalary - (nssf + nhif + tax);
 console.log(`Net Salary : ${netSalary}`);
+
