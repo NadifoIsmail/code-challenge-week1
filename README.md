@@ -31,6 +31,6 @@ Javascript, GIT
 email:: nadifo.ismail@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence]
+*LIcenced under the [MT-licence](https://github.com/NadifoIsmail/code-challenge-week1/blob/main/LICENSE.md)
 
 Copyright (c) 2024 **Nadifo Ismail**
