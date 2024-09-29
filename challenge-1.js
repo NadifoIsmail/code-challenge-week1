@@ -14,13 +14,14 @@ function checkStudentMarks(marks) {
     return "E";
   }
 }
+
 //Allows the user to enter a certain marks
-
 let marks = prompt("Enter the students marks ");
-//ensures the number entered by the user is an integer
 
+//ensures the number entered by the user is an integer
 marks = parseInt(marks);
 
+//ensures that the marks entered is a number and is between 0 to 100
 if (isNaN(marks) || marks < 0 || marks > 100) {
   console.log("Invalid input!");
 } else {
