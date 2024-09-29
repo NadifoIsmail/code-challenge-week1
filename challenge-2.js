@@ -12,15 +12,10 @@ if(speed < 70){
     console.log("Ok");
 }
 else {
-    const overspeed = speed - speedLimit; //calculate how much the driver has exceeded the speedLimit
-    const points = overspeed/kmPerPoint;  //calculate the demerit points
+    
 
     if(points > 12){
-        console.log("License suspended");
-    }
-    else{
-        console.log(`points:${points}`);
-    }
+        console.log("License suspended"); 
 }
 }
 //Allow the user to enter the speed of the car
