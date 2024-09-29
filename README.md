@@ -3,10 +3,10 @@
 #### **By Nadifo Ismail**
 ## Description
 This repository has a Javascript code challenge to test your skills and basic JavaScript knowledge
-It has solutions for three different js challenges.
+It has solutions for three different JS challenges.
 
 ## Challenge1
-This challenge involves a program that converts students marks (0-100) to grades (A,B,C,D and E)
+This challenge involves a program that converts students marks (0-100) to grades (A, B, C, D and E)
 
 ## Challenge 2
 This challenge checks the speed of a car and issues demerit points if the speed exceeds 70km/h
@@ -22,13 +22,13 @@ This challenge calculates net salary by getting the inputs of basic salary and b
 
 
 ## Live link
-* You can view the Github repository on [code-challenge-week1]
+* You can view the GitHub repository on [code-challenge-week1](https://github.com/NadifoIsmail/code-challenge-week1)
 
 ## Technologies Used
 Javascript, GIT
 
 ## Support and contact details
-email :: 
+email:: nadifo.ismail@student.moringaschool.com
 
 ### License
 *LIcenced under the [MT-licence]
